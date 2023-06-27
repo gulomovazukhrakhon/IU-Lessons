@@ -6,3 +6,7 @@
 * Under- and Overfitting
 
 ## Unit 2 Regression
+* Linear Regression
+* Lasso and Ridge Regularization
+* Generalized Linear Models
+* Logistic Regression
