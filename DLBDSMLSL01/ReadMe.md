@@ -10,3 +10,7 @@
 * Lasso and Ridge Regularization
 * Generalized Linear Models
 * Logistic Regression
+
+## Unit 3 Basic Classification Techniques
+* K-Nearest Neighbor
+* Naïve Bayes
