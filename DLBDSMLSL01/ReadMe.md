@@ -15,7 +15,7 @@
 * K-Nearest Neighbor
 * Naïve Bayes
 
-  ## Unit 4 Support Vector Machines
+## Unit 4 Support Vector Machines
 * Large Margin Classification
 * The Kernel Trick
 
