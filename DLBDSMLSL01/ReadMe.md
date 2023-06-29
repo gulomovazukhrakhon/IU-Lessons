@@ -14,3 +14,12 @@
 ## Unit 3 Basic Classification Techniques
 * K-Nearest Neighbor
 * Naïve Bayes
+
+  ## Unit 4 Support Vector Machines
+* Large Margin Classification
+* The Kernel Trick
+
+## Unit 5: Decision & Regression Trees
+* Decision & Regression Trees
+* Random Forest
+* Gradient Boosting
