@@ -7,3 +7,8 @@
 * K-Means
 * Gaussian Mixture Model Clustering
 * Hierarchical Clustering
+
+## Unit 3: Dimensionality Reduction
+* Principal Component Analysis (PCA)
+* Multi-Dimensional Scaling
+* Local Linear Embedding
