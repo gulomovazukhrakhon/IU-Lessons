@@ -12,3 +12,14 @@
 * Principal Component Analysis (PCA)
 * Multi-Dimensional Scaling
 * Local Linear Embedding
+
+## Unit 4: Feature Engineering
+* Numerical Features
+* Categorical Features
+* Text Features
+
+## Unit 5: Feature Selection
+* Feature Importance
+* Feature Variance
+* Correlation Matrix
+* Recursive Feature Selection
