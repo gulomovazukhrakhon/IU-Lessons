@@ -12,3 +12,8 @@ This book offers a comprehensive guide to unsupervised machine learning and feat
 **Grade:** 100 out of 100
 <br>
 **Duration:** July 25, 2023 - October 10, 2023
+
+## DLBDSNNDL01- Neural Nets and Deep Learning
+I comprehensively understood core concepts, explored neural network architectures in-depth, and acquired hands-on experience with convolutional and recurrent networks. I can now optimize networks for peak performance and delve into the "why" behind their operation, empowering me to create intelligent systems independently.
+
+**Grade:** 77 out of 100
